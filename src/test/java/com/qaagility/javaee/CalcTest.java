@@ -23,7 +23,7 @@ public class CalcTest{
   @Test
   public void testCalc(){
     //assertEquals("Result",9,9);
-    assertEquals("Result",18,new calc().mul());
+    assertEquals("Result",18,new Calc().mul());
     //System.out.println("TestCalc =" +9*9);
   }
   
