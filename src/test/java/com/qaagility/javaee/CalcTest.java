@@ -5,7 +5,7 @@ import org.junit.Before;
 import org.junit.After;
 import static org.junit.Assert.assertEquals;
 
-public class CalcTest
+public class CalcTest{
   public void testSlow(){
     System.out.println("Slow");
   }
